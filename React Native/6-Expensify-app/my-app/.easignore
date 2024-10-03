@@ -1,0 +1,9 @@
+node_modules/
+.git/
+.DS_Store
+*.log
+build/
+dist/
+*.mp4
+*.mov
+large-assets/
